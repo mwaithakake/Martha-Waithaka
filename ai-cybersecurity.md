@@ -1,4 +1,8 @@
-# 🤖 AI and Cybersecurity
+<a href="./">
+  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
+</a>
+
+🤖 AI and Cybersecurity
 
 As part of my learning journey, I completed the **Google AI Essentials** course, earning both a certificate and badge.  
 This training introduced me to foundational AI concepts, ethical considerations, and practical applications — skills that are increasingly valuable in modern cybersecurity operations.
