@@ -1,31 +1,42 @@
 # Hello, I'm Martha Waithaka! 👋  
-<a href="https://www.linkedin.com/in/martha-waithaka-203b75263/">
+<a href="https://www.linkedin.com/in/your-linkedin-profile/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
 
-I am a recent graduate passionate about cybersecurity and dedicated to solving complex security challenges.  
-Currently building hands-on experience in SOC operations, security automation, and incident detection.
+I am currently a student at **Moringa School**, building my skills in cybersecurity, networking, and automation.  
+I am passionate about securing systems and data, and I am working towards breaking into the cybersecurity field — particularly in a **SOC Tier 1 Analyst** role.  
+
+To strengthen my skills, I am actively learning through platforms like **TryHackMe** and **LetsDefend**, and I am also preparing for the **CompTIA Security+ (in progress)** certification.
 
 ---
 
 ## 🎯 Objective
 
-Transition into cybersecurity as a **SOC Tier 1 Analyst**, focusing on threat detection, automation, and incident response while continuously improving my technical and analytical skills.
+Break into cybersecurity as a SOC Tier 1 Analyst, with a focus on threat detection, automation, and incident response while continuously growing my technical and analytical skills.
 
 ---
 
 ## 🛠️ Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis            | [Detection Lab](#detection-lab) |
-| Network Traffic Monitoring & Attack Detection | [Detection Lab](#detection-lab) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Project](#soc-automation-project) |
-| Incident Response Planning & Execution        | [SOC Automation Project](#soc-automation-project) |
-| Case Management with TheHive                  | [SOC Automation Project](#soc-automation-project) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Project](#soc-automation-project) |
+| Skill                                         | Practiced In                |
+|-----------------------------------------------|-----------------------------|
+| SIEM Basics & Log Analysis                    | TryHackMe labs, LetsDefend labs |
+| Network Traffic Monitoring                    | Detection Lab (practice setup) |
+| Basic Security Automation                     | LetsDefend SOC Automation Lab |
+| Incident Investigation & Reporting            | TryHackMe and LetsDefend exercises |
+| Linux Fundamentals                            | TryHackMe Linux labs |
+| Splunk Querying & Dashboard Creation          | TryHackMe Intro to Splunk |
+
+---
+
+## 🧪 Labs Completed
+
+- **TryHackMe: Intro to Splunk** – Explored Splunk basics, created queries, and dashboards.
+- **TryHackMe: Linux Fundamentals** – Practiced Linux CLI commands, file permissions, and basic scripting.
+- **LetsDefend: SOC Automation Lab** – Experimented with Shuffle SOAR and TheHive for automation and case management.
+- **Detection Lab (Setup and Exploration)** – Deployed lab for practicing SIEM and network log analysis.
 
 ---
 
@@ -47,9 +58,9 @@ Transition into cybersecurity as a **SOC Tier 1 Analyst**, focusing on threat de
 
 ### SIEM  
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ---
@@ -57,20 +68,5 @@ Transition into cybersecurity as a **SOC Tier 1 Analyst**, focusing on threat de
 ## 📜 Certifications  
 
 <div>
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TryHackMe_Beginner_Path-9F0D7F?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LetsDefend_SOC_Analyst_Intro-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Security+_(in_progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
----
-
-## 📁 Projects
-
-### 🔹 Detection Lab
-Hands-on lab environment where I implemented SIEM solutions, analyzed logs, and monitored network traffic to detect malicious activities.
-
-### 🔹 SOC Automation Project
-Developed automation playbooks using Shuffle SOAR integrated with TheHive for case management, significantly reducing manual incident handling time.
-
----
-
