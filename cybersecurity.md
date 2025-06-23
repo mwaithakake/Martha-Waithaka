@@ -2,8 +2,7 @@
   <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
 </a>
 
-
-🛡️ Cybersecurity
+# 🛡️ Cybersecurity
 
 I am passionate about cybersecurity and am actively building my skills in security operations, threat detection, automation, and incident response.  
 Through hands-on labs, continuous learning, and certifications, I am developing the expertise needed to contribute to modern Security Operations Centers (SOCs).
