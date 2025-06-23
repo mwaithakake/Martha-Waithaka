@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Martha Waithaka!
 
-**Cybersecurity Learner | Software Engineer | Project Manager**
+**Cybersecurity Learner | Software Engineer | Project Manager | AI Enthusiast**
 
 Welcome to my portfolio! I am passionate about cybersecurity and actively building skills in security operations, automation, and incident response.  
-With a background in software engineering and formal project management training, I bring a unique mix of technical and organizational skills to my work.
+With a background in software engineering, formal project management training, and AI fundamentals, I bring a unique mix of technical and organizational skills to my work.
 
 ---
 
@@ -11,7 +11,8 @@ With a background in software engineering and formal project management training
 
 - 🛡️ [Cybersecurity](./cybersecurity.md)  
 - 💻 [Software Engineering](./software-projects.md)  
-- 📝 [Project Management](./project-management.md)
+- 📝 [Project Management](./project-management.md)  
+- 🤖 [AI and Cybersecurity](./ai-cybersecurity.md)
 
 ---
 
