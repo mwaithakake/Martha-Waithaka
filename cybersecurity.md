@@ -1,46 +1,31 @@
-# Hello, I'm Martha Waithaka! 👋  
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# 🛡️ Cybersecurity
+
+I am passionate about cybersecurity and am actively building my skills in security operations, threat detection, automation, and incident response.  
+Through hands-on labs, continuous learning, and certifications, I am developing the expertise needed to contribute to modern Security Operations Centers (SOCs).
 
 ---
 
-I am currently a student at **Moringa School**, building my skills in cybersecurity, networking, and automation.  
-I am passionate about securing systems and data, and I am working towards breaking into the cybersecurity field — particularly in a **SOC Tier 1 Analyst** role.  
+## 🌟 Objective  
 
-To strengthen my skills, I am actively learning through platforms like **TryHackMe** and **LetsDefend**, and I am also preparing for the **CompTIA Security+ (in progress)** certification.
-
----
-
-## 🎯 Objective
-
-Break into cybersecurity as a SOC Tier 1 Analyst, with a focus on threat detection, automation, and incident response while continuously growing my technical and analytical skills.
+I aim to break into the cybersecurity field and contribute as a **Tier 1 SOC Analyst**.  
+My focus is on gaining practical skills, mastering security tools, and building automation that improves incident detection and response.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-| Skill                                         | Practiced In                |
-|-----------------------------------------------|-----------------------------|
-| SIEM Basics & Log Analysis                    | TryHackMe labs, LetsDefend labs |
-| Network Traffic Monitoring                    | Detection Lab (practice setup) |
-| Basic Security Automation                     | LetsDefend SOC Automation Lab |
-| Incident Investigation & Reporting            | TryHackMe and LetsDefend exercises |
-| Linux Fundamentals                            | TryHackMe Linux labs |
-| Splunk Querying & Dashboard Creation          | TryHackMe Intro to Splunk |
-
----
-
-## 🧪 Labs Completed
-
-- **TryHackMe: Intro to Splunk** – Explored Splunk basics, created queries, and dashboards.
-- **TryHackMe: Linux Fundamentals** – Practiced Linux CLI commands, file permissions, and basic scripting.
-- **LetsDefend: SOC Automation Lab** – Experimented with Shuffle SOAR and TheHive for automation and case management.
-- **Detection Lab (Setup and Exploration)** – Deployed lab for practicing SIEM and network log analysis.
+| Skill                                         | Associated Lab/Project           |
+|-----------------------------------------------|----------------------------------|
+| SIEM Implementation and Log Analysis          | TryHackMe: Intro to Splunk       |
+| Network Traffic Monitoring and Attack Detection| LetsDefend: Network Labs         |
+| Security Automation with Shuffle SOAR         | SOC Automation Practice          |
+| Incident Response Planning and Execution      | LetsDefend: Incident Handling    |
+| Case Management with TheHive                  | SOC Automation Practice          |
+| Scripting and Automation for Threat Mitigation| Python/PowerShell mini-scripts   |
 
 ---
 
-## 🧰 Tools
+## 🔧 Tools  
 
 ### Network  
 <div>
@@ -53,20 +38,39 @@ Break into cybersecurity as a SOC Tier 1 Analyst, with a focus on threat detecti
 <div>
   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM  
 <div>
+  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ---
 
-## 📜 Certifications  
+## 🎓 Certifications  
 
 <div>
-  <img src="https://img.shields.io/badge/-CompTIA_Security+_(in_progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <a href="https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450">
+    <img src="https://img.shields.io/badge/-ISC2_Candidate-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
 </div>
+
+✅ [View ISC2 Candidate Badge](https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450)
+
+> The ISC2 Candidate program reflects my commitment to advancing in cybersecurity through continuous learning, networking, and preparing for globally recognized certifications.
+
+---
+
+## 📚 Labs Completed  
+
+- TryHackMe: Intro to Splunk  
+- TryHackMe: Other security-related rooms  
+- LetsDefend: SOC Analyst challenges  
+- LetsDefend: Network monitoring & incident response  
+- Other personal mini-projects using Python/PowerShell for automation
+
+---
+
+_This page is part of my journey to becoming a security professional, and I continuously update it as I grow._
