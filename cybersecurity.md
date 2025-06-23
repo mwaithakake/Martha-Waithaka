@@ -1,5 +1,5 @@
 # Hello, I'm Martha Waithaka! 👋  
-<a href="https://www.linkedin.com/in/your-linkedin-profile/">
+<a href="https://www.linkedin.com/in/martha-waithaka-203b75263/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
