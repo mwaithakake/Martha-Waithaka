@@ -1,10 +1,6 @@
-<a href="./">
-  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
-</a>
-
 # 🛡️ Cybersecurity
 
-I am passionate about cybersecurity and am actively building my skills in security operations, threat detection, automation, and incident response.  
+I am passionate about cybersecurity and actively building skills in security operations, threat detection, automation, and incident response.  
 Through hands-on labs, continuous learning, and certifications, I am developing the expertise needed to contribute to modern Security Operations Centers (SOCs).
 
 ---
@@ -18,37 +14,35 @@ My focus is on gaining practical skills, mastering security tools, and building 
 
 ## 🛠️ Skills  
 
-| Skill                                         | Associated Lab/Project           |
-|-----------------------------------------------|----------------------------------|
-| SIEM Implementation and Log Analysis          | TryHackMe: Intro to Splunk       |
-| Network Traffic Monitoring and Attack Detection| LetsDefend: Network Labs         |
-| Security Automation with Shuffle SOAR         | SOC Automation Practice          |
-| Incident Response Planning and Execution      | LetsDefend: Incident Handling    |
-| Case Management with TheHive                  | SOC Automation Practice          |
-| Scripting and Automation for Threat Mitigation| Python/PowerShell mini-scripts   |
+| Skill                                         | Associated Lab/Project                        |
+|-----------------------------------------------|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          | [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct) |
+| Network Traffic Monitoring and Attack Detection| [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336) |
+| Security Fundamentals                         | [TryHackMe: Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt), [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax) |
+| Web Traffic / Protocol Analysis               | [TryHackMe: HTTP In Detail](https://tryhackme.com/room/httpindetail), [DNS In Detail](https://tryhackme.com/room/dnsindetail) |
+| OS Fundamentals                               | [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1), [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx), [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) |
+| Governance, Risk, and Compliance              | [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation) |
+| Entry SOC Analyst Concepts                    | [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) |
 
 ---
 
 ## 🔧 Tools  
 
-### Network  
+### Network & Analysis  
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint  
+### SIEM & Monitoring  
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM  
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Vulnerability Scanning  
+<div>
+  <img src="https://img.shields.io/badge/-Nessus-005571?&style=for-the-badge&logo=Nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-4CAF50?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
 </div>
 
 ---
@@ -69,12 +63,20 @@ My focus is on gaining practical skills, mastering security tools, and building 
 
 ## 📚 Labs Completed  
 
-- TryHackMe: Intro to Splunk  
-- TryHackMe: Other security-related rooms  
-- LetsDefend: SOC Analyst challenges  
-- LetsDefend: Network monitoring & incident response  
-- Other personal mini-projects using Python/PowerShell for automation
+- [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct)  
+- [TryHackMe: Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)  
+- [TryHackMe: Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)  
+- [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)  
+- [TryHackMe: HTTP In Detail](https://tryhackme.com/room/httpindetail)  
+- [TryHackMe: DNS In Detail](https://tryhackme.com/room/dnsindetail)  
+- [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)  
+- [TryHackMe: Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)  
+- [TryHackMe: Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)  
+- [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation)  
+- [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336)
 
 ---
 
-_This page is part of my journey to becoming a security professional, and I continuously update it as I grow._
+<a href="./">
+  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
+</a>
