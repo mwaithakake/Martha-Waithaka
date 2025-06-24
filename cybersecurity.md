@@ -1,3 +1,8 @@
+
+<a href="./">
+  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
+</a>
+
 # 🛡️ Cybersecurity
 
 I am passionate about cybersecurity and actively building skills in security operations, threat detection, automation, and incident response.  
@@ -23,6 +28,7 @@ My focus is on gaining practical skills, mastering security tools, and building 
 | OS Fundamentals                               | [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1), [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx), [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) |
 | Governance, Risk, and Compliance              | [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation) |
 | Entry SOC Analyst Concepts                    | [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) |
+| Report Writing and Risk Communication         | [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing) |
 
 ---
 
@@ -73,10 +79,25 @@ My focus is on gaining practical skills, mastering security tools, and building 
 - [TryHackMe: Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)  
 - [TryHackMe: Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)  
 - [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation)  
-- [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336)
+- [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336)  
+- [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)
 
 ---
 
-<a href="./">
-  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
-</a>
+## 📄 Reports & Deliverables  
+
+🚀 **Penetration Testing Report Template**  
+As part of my cybersecurity learning journey, I designed a professional penetration testing report template that covers:  
+
+- Executive summary for non-technical audiences  
+- Scope, methodology, rules of engagement  
+- CVSS v3.1-based risk ratings with color-coded visuals  
+- Detailed findings, evidence, and recommendations  
+
+📄 [View Report](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)  
+
+![Pentest Report](https://img.shields.io/badge/-Pentest_Report_Template-005571?&style=for-the-badge)  
+
+💡 *More reports will be added soon as I complete additional labs and projects.*
+
+---
