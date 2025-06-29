@@ -21,7 +21,7 @@ My focus is on gaining practical skills, mastering security tools, and building 
 
 | Skill                                         | Associated Lab/Project                        |
 |-----------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct) |
+| SIEM Implementation and Log Analysis          | [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct) | 
 | Network Traffic Monitoring and Attack Detection| [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336) |
 | Security Fundamentals                         | [TryHackMe: Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt), [Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax) |
 | Web Traffic / Protocol Analysis               | [TryHackMe: HTTP In Detail](https://tryhackme.com/room/httpindetail), [DNS In Detail](https://tryhackme.com/room/dnsindetail) |
@@ -29,6 +29,7 @@ My focus is on gaining practical skills, mastering security tools, and building 
 | Governance, Risk, and Compliance              | [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation) |
 | Entry SOC Analyst Concepts                    | [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) |
 | Report Writing and Risk Communication         | [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing) |
+| Passive Reconnaissance & Penetration Testing | [Uber Passive Recon Project](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing) |
 
 ---
 
@@ -96,7 +97,26 @@ As part of my cybersecurity learning journey, I designed a professional penetrat
 
 📄 [View Report](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)  
 
-![Pentest Report](https://img.shields.io/badge/-Pentest_Report_Template-005571?&style=for-the-badge)  
+
+
+🚨 **Uber Penetration Testing Report (Passive Recon Project)**  
+This hands-on project involved conducting passive reconnaissance on **Uber**, using open-source intelligence (OSINT) methods while adhering to **ethical standards** and **Uber’s public security guidelines**.
+
+Key highlights:
+
+- Identified employee names, email naming conventions, and exposed assets  
+- Mapped Uber's external attack surface using passive tools and Google dorking  
+- Followed professional reporting structure and risk communication formats  
+- Delivered findings in a formal report similar to industry penetration tests  
+
+📄 [View Uber Pentest Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)
+
+
+> 💡 A real-world, regulation-aligned pentest simulation demonstrating practical skills in passive reconnaissance, reporting, and professional documentation.
+
+💡 This project demonstrates my ability to perform realistic assessments against a known company while maintaining ethical and legal boundaries, as required in professional penetration testing.
+
+
 
 💡 *More reports will be added soon as I complete additional labs and projects.*
 
