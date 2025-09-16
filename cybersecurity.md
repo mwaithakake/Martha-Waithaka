@@ -60,13 +60,17 @@ My focus is on gaining practical skills, mastering security tools, and building 
   <a href="https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450">
     <img src="https://img.shields.io/badge/-ISC2_Candidate-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
   </a>
+  <a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
+    <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
 </div>
 
-✅ [View ISC2 Candidate Badge](https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450)
+✅ [View ISC2 Candidate Badge](https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450)  
+✅ [View ISC2 CC Badge](https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url)
 
-> The ISC2 Candidate program reflects my commitment to advancing in cybersecurity through continuous learning, networking, and preparing for globally recognized certifications.
+> The ISC2 Candidate program reflects my commitment to advancing in cybersecurity through continuous learning, networking, and preparing for globally recognized certifications.  
+> The ISC2 CC certification highlights my foundational knowledge in cybersecurity concepts and readiness to engage in more advanced security roles.
 
----
 
 ## 📚 Labs Completed  
 
