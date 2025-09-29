@@ -13,7 +13,8 @@ Through hands-on labs, continuous learning, and certifications, I am developing 
 ## 🌟 Objective  
 
 I aim to break into the cybersecurity field and contribute as a **Tier 1 SOC Analyst**.  
-My focus is on gaining practical skills, mastering security tools, and building automation that improves incident detection and response.
+My focus is on gaining practical skills, mastering security tools, and building automation that improves incident detection and response.  
+I document my journey step by step in my [Cybersecurity Learning Series](https://github.com/mwaithakake/cybersecurity-learning-series).  
 
 ---
 
