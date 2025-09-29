@@ -27,9 +27,9 @@ My focus is on gaining practical skills, mastering security tools, and building 
 | Web Traffic / Protocol Analysis               | [TryHackMe: HTTP In Detail](https://tryhackme.com/room/httpindetail), [DNS In Detail](https://tryhackme.com/room/dnsindetail) |
 | OS Fundamentals                               | [TryHackMe: Linux Fundamentals](https://tryhackme.com/room/linuxfundamentalspart1), [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx), [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) |
 | Governance, Risk, and Compliance              | [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation) |
-| Entry SOC Analyst Concepts                    | [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) |
 | Report Writing and Risk Communication         | [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing) |
 | Passive Reconnaissance & Penetration Testing | [Uber Passive Recon Project](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing) |
+| Adversary Frameworks & Threat Mapping       | [TryHackMe: MITRE ATT&CK](https://tryhackme.com/room/mitre) |
 
 ---
 
@@ -77,7 +77,6 @@ My focus is on gaining practical skills, mastering security tools, and building 
 - [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct)  
 - [TryHackMe: Cyber Kill Chain](https://tryhackme.com/room/cyberkillchainzmt)  
 - [TryHackMe: Pyramid of Pain](https://tryhackme.com/room/pyramidofpainax)  
-- [TryHackMe: Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)  
 - [TryHackMe: HTTP In Detail](https://tryhackme.com/room/httpindetail)  
 - [TryHackMe: DNS In Detail](https://tryhackme.com/room/dnsindetail)  
 - [TryHackMe: Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)  
@@ -86,6 +85,7 @@ My focus is on gaining practical skills, mastering security tools, and building 
 - [TryHackMe: Cyber Governance Regulation](https://tryhackme.com/room/cybergovernanceregulation)  
 - [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336)  
 - [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)
+- [TryHackMe: MITRE ATT&CK](https://tryhackme.com/room/mitre)
 
 ---
 
