@@ -23,9 +23,7 @@ I document my journey step by step in my [Cybersecurity Learning Series](https:/
   <a href="https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url">
     <img src="https://img.shields.io/badge/-CompTIA_Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450">
-    <img src="https://img.shields.io/badge/-ISC2_Candidate-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  </a>
+  
   <a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
     <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
   </a>
