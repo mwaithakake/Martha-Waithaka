@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Martha Waithaka!
 
-🛡️ CompTIA Security+ Certified | 💻 Software Engineer | 📋 Project Manager | 🤖 AI Enthusiast
+🛡️ Cybersecurity Professional | 💻 Software Engineer | 📋 Project Manager | 🤖 AI Enthusiast
 
-Welcome to my portfolio! I specialize in **cybersecurity**, with hands-on experience in **threat detection, incident response, network security, vulnerability assessment, and automation**.  
-With a background in software engineering, project management, and AI fundamentals, I bring a **technical and organizational edge** to securing systems and data.
+I specialize in **blue team cybersecurity**, with hands-on experience in **security operations, threat detection, incident response, network monitoring, and automation**.  
+With a foundation in **software engineering**, formal **project management training**, and **AI fundamentals**, I bring a **technical and organizational edge** to securing systems and networks.
 
 ---
 
 ## 🔑 Top Skills
 
-**Cybersecurity:**  
+**Blue Team / Cybersecurity:**  
 - Threat Detection & Incident Response  
 - Network Security & Vulnerability Assessment  
 - Identity & Access Management (IAM)  
@@ -46,4 +46,4 @@ With a background in software engineering, project management, and AI fundamenta
 
 ---
 
-_This portfolio is a living showcase of my work in cybersecurity, software engineering, and project management as I continue learning, building, and growing in the field._
+_This portfolio is a living showcase of my work in blue-team cybersecurity, software engineering, and project management as I continue learning, building, and growing in the field._
