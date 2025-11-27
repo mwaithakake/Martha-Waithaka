@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Martha Waithaka!
 
-🛡️ Cybersecurity Professional | 💻 Software Engineer | 📋 Project Manager | 🤖 AI Enthusiast
+🛡️ Cybersecurity Professional | 💻 Software Engineer | 📋 Project Manager | 🤖 AI 
 
 I specialize in **blue team cybersecurity**, with hands-on experience in **security operations, threat detection, incident response, network monitoring, and automation**.  
 With a foundation in **software engineering**, formal **project management training**, and **AI fundamentals**, I bring a **technical and organizational edge** to securing systems and networks.
@@ -25,10 +25,10 @@ With a foundation in **software engineering**, formal **project management train
 
 ## 🔗 Explore My Work  
 
-- 🛡️ [Cybersecurity Projects](./cybersecurity.md)  
-- 💻 [Software Engineering Projects](./software-projects.md)  
-- 📝 [Project Management Highlights](./project-management.md)  
-- 🤖 [AI & Cybersecurity Experiments](./ai-cybersecurity.md)
+- 🛡️ [Cybersecurity](./cybersecurity.md)  
+- 💻 [Software Engineering](./software-projects.md)  
+- 📝 [Project Management](./project-management.md)  
+- 🤖 [AI](./ai-cybersecurity.md)
 
 ---
 
