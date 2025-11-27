@@ -1,18 +1,34 @@
 # 👋 Hi, I'm Martha Waithaka!
 
-Cybersecurity Learner | Software Engineer | Project Manager | AI Enthusiast
+🛡️ CompTIA Security+ Certified | 💻 Software Engineer | 📋 Project Manager | 🤖 AI Enthusiast
 
-Welcome to my portfolio! I am passionate about cybersecurity and actively building skills in security operations, automation, and incident response.  
-With a background in software engineering, formal project management training, and AI fundamentals, I bring a unique mix of technical and organizational skills to my work.
+Welcome to my portfolio! I specialize in **cybersecurity**, with hands-on experience in **threat detection, incident response, network security, vulnerability assessment, and automation**.  
+With a background in software engineering, project management, and AI fundamentals, I bring a **technical and organizational edge** to securing systems and data.
+
+---
+
+## 🔑 Top Skills
+
+**Cybersecurity:**  
+- Threat Detection & Incident Response  
+- Network Security & Vulnerability Assessment  
+- Identity & Access Management (IAM)  
+- Security Policies & Compliance  
+- Security Automation & Scripting (Python/Bash)  
+
+**Technical & Supporting Skills:**  
+- Software Engineering & Full-Stack Development  
+- Project Management & Agile Workflow  
+- AI & Emerging Tech Integration  
 
 ---
 
 ## 🔗 Explore My Work  
 
-- 🛡️ [Cybersecurity](./cybersecurity.md)  
-- 💻 [Software Engineering](./software-projects.md)  
-- 📝 [Project Management](./project-management.md)  
-- 🤖 [AI and Cybersecurity](./ai-cybersecurity.md)
+- 🛡️ [Cybersecurity Projects](./cybersecurity.md)  
+- 💻 [Software Engineering Projects](./software-projects.md)  
+- 📝 [Project Management Highlights](./project-management.md)  
+- 🤖 [AI & Cybersecurity Experiments](./ai-cybersecurity.md)
 
 ---
 
@@ -30,4 +46,4 @@ With a background in software engineering, formal project management training, a
 
 ---
 
-_This portfolio is a work in progress as I continue learning, building, and growing in the cybersecurity field._
+_This portfolio is a living showcase of my work in cybersecurity, software engineering, and project management as I continue learning, building, and growing in the field._
