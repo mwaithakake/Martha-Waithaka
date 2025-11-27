@@ -1,4 +1,3 @@
-
 <a href="./">
   <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
 </a>
@@ -15,6 +14,28 @@ Through hands-on labs, continuous learning, and certifications, I am developing 
 I aim to break into the cybersecurity field and contribute as a **Tier 1 SOC Analyst**.  
 My focus is on gaining practical skills, mastering security tools, and building automation that improves incident detection and response.  
 I document my journey step by step in my [Cybersecurity Learning Series](https://github.com/mwaithakake/cybersecurity-learning-series).  
+
+---
+
+## 🎓 Certifications  
+
+<div>
+  <a href="https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url">
+    <img src="https://img.shields.io/badge/-CompTIA_Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450">
+    <img src="https://img.shields.io/badge/-ISC2_Candidate-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
+    <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
+</div>
+
+✅ [View Security+ Badge](https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url)  
+✅ [View ISC2 Candidate Badge](https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450)  
+✅ [View ISC2 CC Badge](https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url)
+
+> These certifications reflect my commitment to continuous learning, foundational knowledge, and readiness to contribute to cybersecurity roles, particularly in **blue team operations**.
 
 ---
 
@@ -55,24 +76,6 @@ I document my journey step by step in my [Cybersecurity Learning Series](https:/
 
 ---
 
-## 🎓 Certifications  
-
-<div>
-  <a href="https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450">
-    <img src="https://img.shields.io/badge/-ISC2_Candidate-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
-    <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
-  </a>
-</div>
-
-✅ [View ISC2 Candidate Badge](https://www.credly.com/earner/earned/badge/1eaa5a7f-f75e-40c8-bfa0-2a4e90254450)  
-✅ [View ISC2 CC Badge](https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url)
-
-> The ISC2 Candidate program reflects my commitment to advancing in cybersecurity through continuous learning, networking, and preparing for globally recognized certifications.  
-> The ISC2 CC certification highlights my foundational knowledge in cybersecurity concepts and readiness to engage in more advanced security roles.
-
-
 ## 📚 Labs Completed  
 
 - [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct)  
@@ -102,8 +105,6 @@ As part of my cybersecurity learning journey, I designed a professional penetrat
 
 📄 [View Report](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)  
 
-
-
 🚨 **Uber Penetration Testing Report (Passive Recon Project)**  
 This hands-on project involved conducting passive reconnaissance on **Uber**, using open-source intelligence (OSINT) methods while adhering to **ethical standards** and **Uber’s public security guidelines**.
 
@@ -116,13 +117,6 @@ Key highlights:
 
 📄 [View Uber Pentest Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)
 
-
 > 💡 A real-world, regulation-aligned pentest simulation demonstrating practical skills in passive reconnaissance, reporting, and professional documentation.
 
-💡 This project demonstrates my ability to perform realistic assessments against a known company while maintaining ethical and legal boundaries, as required in professional penetration testing.
-
-
-
 💡 *More reports will be added soon as I complete additional labs and projects.*
-
----
