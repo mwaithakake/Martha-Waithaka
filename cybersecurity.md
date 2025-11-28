@@ -4,18 +4,13 @@
 
 # 🛡️ Cybersecurity
 
-I am passionate about cybersecurity and actively building skills in security operations, threat detection, automation, and incident response.  
-Through hands-on labs, continuous learning, and certifications, I am developing the expertise needed to contribute to modern Security Operations Centers (SOCs).
-
----
+I am passionate about cybersecurity and actively building hands-on skills in defensive security, threat detection, incident response, and system hardening. Through practical labs, continuous learning, and industry certifications, I am developing the expertise needed to contribute to effective security operations and proactive defense strategies in enterprise environments.
 
 ## 🌟 Objective  
 
-I aim to break into the cybersecurity field and contribute as a **Tier 1 SOC Analyst**.  
-My focus is on gaining practical skills, mastering security tools, and building automation that improves incident detection and response.  
-I document my journey step by step in my [Cybersecurity Learning Series](https://github.com/mwaithakake/cybersecurity-learning-series).  
-
----
+I aim to break into the cybersecurity field and contribute in hands-on defensive security or Security Administration roles.
+My focus is on gaining practical skills, mastering security tools, and implementing proactive measures that improve threat detection and system defense.
+I document my learning journey step by step in my Cybersecurity Learning Series: https://github.com/mwaithakake/cybersecurity-learning-series
 
 ## 🎓 Certifications  
 
