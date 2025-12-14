@@ -35,7 +35,7 @@ I document my learning journey step by step in my Cybersecurity Learning Series:
 | Skill | Associated Lab/Project |
 |---|---|
 | **Phishing Analysis and Defense** | [TryHackMe: Phishing Hunter Badge](https://tryhackme.com/marthanyangatiwa/badges/phishing?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=67a462635ff13e077bef0f38$) |
-| **SIEM Implementation and Log Analysis** | [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct) |
+| **SIEM Implementation and Log Analysis** |[LetsDefend: Splunk Engineer cert](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336) , [TryHackMe: Wazuh](https://tryhackme.com/room/wazuhct) |
 | **Network Traffic Monitoring/Detection**| [LetsDefend SOC Lab](https://app.letsdefend.io/my-rewards/detail/f04b59d44aa34855b0ebd948f03c2336) |
 | Passive Reconnaissance & Penetration Testing | [Uber Passive Recon Project](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing) |
 | Report Writing and Risk Communication | [Penetration Testing Report Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing) |
