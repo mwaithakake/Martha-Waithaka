@@ -10,10 +10,9 @@ With a foundation in **software engineering**, formal **project management train
 
 **Blue Team / Cybersecurity:**  
 - Threat Detection & Incident Response  
-- Network Security & Vulnerability Assessment  
-- Identity & Access Management (IAM)  
+- Network Security & Vulnerability Assessment   
 - Security Policies & Compliance  
-- Security Automation & Scripting (Python/Bash)  
+
 
 **Technical & Supporting Skills:**  
 - Software Engineering & Full-Stack Development  
