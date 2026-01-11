@@ -55,7 +55,6 @@ I document my learning and selected work in my **Cybersecurity Learning Series**
 - Splunk  
 - Wireshark  
 - Elastic  
-- Wazuh  
 - Linux & Windows command-line tools  
 
 ---
