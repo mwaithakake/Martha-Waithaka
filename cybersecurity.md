@@ -42,7 +42,7 @@ I document my learning and selected work in my **Cybersecurity Learning Series**
 
 | Skill | Supporting Labs / Work |
 |------|------------------------|
-| SIEM & log analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/splunk.md) |
+| SIEM & log analysis | [View report](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/Investigation_1.md) |
 | Network traffic analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/tree/main/labs%20/wireshark) |
 | Phishing analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/phishing_hunter.md) |
 | External exposure analysis (OSINT) |[View Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)|
