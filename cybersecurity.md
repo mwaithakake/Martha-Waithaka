@@ -46,7 +46,7 @@ I document my learning and selected work in my **Cybersecurity Learning Series**
 | Network traffic analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/tree/main/labs%20/wireshark) |
 | Phishing analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/phishing_hunter.md) |
 | External exposure analysis (OSINT) |[View Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)|
-| Security reporting | [View Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)
+
 
 ---
 
@@ -57,29 +57,7 @@ I document my learning and selected work in my **Cybersecurity Learning Series**
 - Elastic  
 - Linux & Windows command-line tools  
 
----
 
-## 📄 Reports & Case Studies
 
-### 🔍 Passive Reconnaissance Case Study (OSINT)
-- Identified publicly exposed information using ethical, passive techniques  
-- Focused on **risk identification and documentation**, not exploitation  
 
-📄 [View Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)
-
----
-
-### 🧾 Security Investigation Report Template
-A reusable template for documenting security findings clearly and consistently.
-
-Includes:
-- Executive summary  
-- Scope and context  
-- Evidence-based findings and recommendations  
-
-📄 [View Template](https://docs.google.com/document/d/1W_fS2E36BD6OYdq-hEIkniyB1x8q_1Y6S-oFXQtDwD4/edit?usp=sharing)
-
----
-
-Additional reports are added as they are completed.
 
