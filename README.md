@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Martha Waithaka
 
 💻 **Entry-Level IT & Cybersecurity Professional**  
+
 🔐 **Security+ Certified**
 
 I am building hands-on skills in IT support and defensive cybersecurity, with a strong interest in understanding how systems operate and how security controls protect them.
