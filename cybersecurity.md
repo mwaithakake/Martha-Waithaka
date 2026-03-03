@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
 </a>
 
-# 🛡️ Cybersecurity Projects
+# 🛡️ Cybersecurity Portfolio
 
 I am developing practical, hands-on skills to strengthen my understanding of enterprise IT systems, infrastructure, and secure operations.
 
