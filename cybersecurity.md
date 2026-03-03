@@ -2,22 +2,75 @@
  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
 </a>
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity Projects
 
-I am building hands-on skills in **defensive cybersecurity**, with a focus on **investigation, threat detection, and incident analysis**.  
-My learning is based on practical labs and written analysis, where I focus on understanding *why* something happens and documenting findings clearly.
+I am developing practical, hands-on skills to strengthen my understanding of enterprise IT systems, infrastructure, and secure operations.
+
+My focus is building strong technical foundations that support **entry-level IT support and infrastructure roles**, while maintaining a security-first mindset.
 
 ---
 
-## 🎯 Objective
+## 🎯 Current Focus Areas
 
-I am working toward an **entry-level blue team / security analyst role**, particularly roles that involve:
-- phishing analysis  
-- log and alert investigation  
-- network traffic analysis  
+- Active Directory & identity management  
+- Windows log investigation  
+- Network traffic analysis  
+- Secure system configuration  
+- Infrastructure troubleshooting  
 
-I document my learning and selected work in my **Cybersecurity Learning Series**:  
-👉 https://github.com/mwaithakake/cybersecurity-learning-series
+I document selected work in my **Cybersecurity Learning Series**:  
+👉 https://github.com/mwaithakake/cybersecurity-learning-series/tree/main
+
+---
+
+# 🔐 Featured Projects
+
+---
+
+## 🖥️ Active Directory Infrastructure & Hardening Lab
+
+**Project Included:**
+- Domain controller setup
+- User & group lifecycle management
+- Group Policy configuration
+- Password & lockout policy enforcement
+- Delegation of helpdesk permissions
+- PowerShell-based administration
+
+**Why It’s Essential:**
+Demonstrates real-world IT support responsibilities such as account management, access control, login troubleshooting, and understanding enterprise identity systems.
+
+🔗 https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/active_directory/active_directory_basics.md
+
+---
+
+## 📊 Windows Log Investigation & Account Activity Analysis
+
+**Project Included:**
+- Windows Event Log analysis
+- Investigation of account creation activity
+- PowerShell execution review
+- SIEM alert interpretation
+
+**Why It’s Essential:**
+Shows ability to troubleshoot system behavior, interpret logs, and investigate user or process-related issues — key skills in technical support roles.
+
+🔗 https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/windows-backdoor-user-investigation.md
+
+---
+
+## 🌐 Network Traffic Analysis & MITM Simulation
+
+**Project Included:**
+- Packet capture using Wireshark
+- DNS, ARP, and TCP/IP analysis
+- Identification of abnormal traffic patterns
+- Traffic flow interpretation
+
+**Why It’s Essential:**
+Strengthens networking fundamentals and supports diagnosing connectivity, DNS, and system communication issues in real IT environments.
+
+🔗 https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/network_analysis/MITM-Investigation.md
 
 ---
 
@@ -33,31 +86,18 @@ I document my learning and selected work in my **Cybersecurity Learning Series**
  </a>
 </div>
 
-- [View Security+ Badge](https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url)  
-- [View ISC2 CC Badge](https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url)
 
 ---
 
-## 🛠️ Core Skills (With Evidence)
+## 🔧 Tools & Technologies
 
-| Skill | Supporting Labs / Work |
-|------|------------------------|
-| SIEM & log analysis | [View proects](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/windows-backdoor-user-investigation.md) |
-| Network traffic analysis | [View projects](https://github.com/mwaithakake/cybersecurity-learning-series/tree/main/projects/network_analysis) |
-| Phishing analysis | [View writeup](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/labs%20/phishing_hunter.md) |
-| External exposure analysis (OSINT) |[View Report](https://docs.google.com/document/d/1eySRVJhUiqcm4nKwxHK9lzsUgSPCDo-HNjHrTu1Sck8/edit?usp=sharing)|
-
-
----
-
-## 🔧 Tools
-
+- Windows Server & Active Directory  
+- PowerShell  
 - Splunk  
 - Wireshark  
-- Elastic  
-- Linux & Windows command-line tools  
+- Linux (CLI)  
+- Windows Command Line  
 
+---
 
-
-
-
+_These projects reflect ongoing hands-on practice as I continue strengthening my IT infrastructure and security foundations._
