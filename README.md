@@ -23,7 +23,7 @@ I am currently seeking entry-level IT support or technical roles where I can str
 
 ## 🔗 Explore My Work  
 
-- 🛡️ [Cybersecurity Projects](./cybersecurity.md)  
+- 🛡️ [Cybersecurity Portfolio](./cybersecurity.md)  
 - 💻 [Technical & System Labs](./software-projects.md)  
 - 📄 [Resume](./resume.pdf)  
 - 📫 [Connect With Me](#-lets-connect)  
