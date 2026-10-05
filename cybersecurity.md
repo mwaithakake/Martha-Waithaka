@@ -1,81 +1,76 @@
-<a href="./README.md">
-  <img src="https://img.shields.io/badge/⬅️ Back_to_Main_Page-blue?style=for-the-badge" />
-</a>
-
 # 🛡️ Cybersecurity Portfolio
 
-I am developing practical, hands-on skills to strengthen my understanding of enterprise IT systems, infrastructure, and secure operations.
+I am building practical cybersecurity skills through hands-on investigation, Windows security, network analysis, and enterprise infrastructure labs.
 
-My focus is building strong technical foundations that support **entry-level IT support and infrastructure roles**, while maintaining a security-first mindset.
-
----
-
-## 🎯 Current Focus Areas
-
-- Active Directory & identity management  
-- Windows log investigation  
-- Network traffic analysis  
-- Secure system configuration  
-- Infrastructure troubleshooting  
-
-I document selected work in my **Cybersecurity Learning Series**:  
-👉 [Cybersecurity Learning Series](https://github.com/mwaithakake/cybersecurity-learning-series/tree/main)
+My projects focus on understanding **what happened, what evidence supports the conclusion, and how a defender could respond.**
 
 ---
 
-# 🔐 Featured Projects
+## 🎯 Current Focus
+
+- Windows security investigation
+- Endpoint and log analysis
+- Active Directory & identity management
+- Network analysis
+- Security monitoring and detection
+- Enterprise infrastructure fundamentals
 
 ---
 
-## 🖥️ Active Directory Infrastructure & Hardening Lab
+# 🔎 Featured Projects
 
-**Project Included:**
-- Domain controller setup
-- User & group lifecycle management
-- Group Policy configuration
-- Password & lockout policy enforcement
-- Delegation of helpdesk permissions
-- PowerShell-based administration
+## 🖥️ Windows Host Investigation Lab
 
-**Why It’s Essential:**
-Demonstrates real-world IT support responsibilities such as account management, access control, login troubleshooting, and understanding enterprise identity systems.
+A controlled Windows investigation lab focused on reconstructing suspicious activity from endpoint telemetry.
+
+### What I investigated
+
+- Process creation using Sysmon
+- PowerShell activity and Script Block Logging
+- Encoded PowerShell execution
+- File creation and concealment
+- Registry-based persistence
+- Correlation of multiple events into an investigation timeline
+
+### Key technologies
+
+**Windows 11 · Windows Server · Sysmon · PowerShell · Windows Event Logs · MITRE ATT&CK**
+
+🔗 [View Project](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/Windows_Investigation_Lab/final_report.md)
+
+---
+
+## 🏢 Active Directory Infrastructure & Security Lab
+
+A hands-on Windows Server and Active Directory lab focused on understanding enterprise identity and access management.
+
+### What I worked with
+
+- Domain controller configuration
+- Users and security groups
+- Organizational Units
+- Group Policy
+- Password and account policies
+- Delegated permissions
+- Windows domain administration
+
+### Key technologies
+
+**Windows Server · Active Directory · Group Policy · PowerShell**
 
 🔗 [View Project](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/active_directory/active_directory_basics.md)
 
 ---
 
-## 📊 Windows Log Investigation & Account Activity Analysis
+# 📚 Cybersecurity Learning Series
 
-**Project Included:**
-- Windows Event Log analysis
-- Investigation of account creation activity
-- PowerShell execution review
-- SIEM alert interpretation
+My learning series contains guided labs, technical notes, experiments, and other hands-on work documenting my development as I build practical cybersecurity skills.
 
-**Why It’s Essential:**
-Shows ability to troubleshoot system behavior, interpret logs, and investigate user or process-related issues — key skills in technical support roles.
-
-🔗 [View Project](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/SIEM/windows-backdoor-user-investigation.md)
+👉 [Explore the Cybersecurity Learning Series](https://github.com/mwaithakake/cybersecurity-learning-series/tree/main)
 
 ---
 
-## 🌐 Network Traffic Analysis & MITM Simulation
-
-**Project Included:**
-- Packet capture using Wireshark
-- DNS, ARP, and TCP/IP analysis
-- Identification of abnormal traffic patterns
-- Traffic flow interpretation
-
-**Why It’s Essential:**
-Strengthens networking fundamentals and supports diagnosing connectivity, DNS, and system communication issues in real IT environments.
-
-🔗 [View Project](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/network_analysis/MITM-Investigation.md)
-
-
----
-
-## 🎓 Certifications
+# 🎓 Certifications
 
 <div>
  <a href="https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url">
@@ -87,18 +82,39 @@ Strengthens networking fundamentals and supports diagnosing connectivity, DNS, a
  </a>
 </div>
 
+---
+
+# 🔧 Technologies & Tools
+
+### Windows & Infrastructure
+
+- Windows Server
+- Windows 11
+- Active Directory
+- Group Policy
+- PowerShell
+- Windows Event Logs
+
+### Security & Investigation
+
+- Sysmon
+- SIEM fundamentals
+- Log analysis
+- Endpoint investigation
+- MITRE ATT&CK
+
+### Networking
+
+- Wireshark
+- TCP/IP
+- DNS
+- ARP
+
+### Operating Systems
+
+- Windows
+- Linux
 
 ---
 
-## 🔧 Tools & Technologies
-
-- Windows Server & Active Directory  
-- PowerShell  
-- Splunk  
-- Wireshark  
-- Linux (CLI)  
-- Windows Command Line  
-
----
-
-_These projects reflect ongoing hands-on practice as I continue strengthening my IT infrastructure and security foundations._
+_This portfolio documents my progression from guided hands-on labs toward independently investigating and understanding cybersecurity problems._
