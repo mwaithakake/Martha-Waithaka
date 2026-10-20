@@ -39,6 +39,34 @@ A controlled Windows investigation lab focused on reconstructing suspicious acti
 🔗 [View Project](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/Windows_Investigation_Lab/final_report.md)
 
 ---
+## 🔎 Wazuh SIEM Detection & Investigation
+
+A hands-on blue-team project investigating encoded PowerShell execution on a monitored Windows endpoint using Wazuh and Sysmon.
+
+### What I investigated
+
+- Triaged a Wazuh alert for Base64-encoded PowerShell execution
+- Examined Sysmon process-creation telemetry, including process IDs, parent-process information, and account context
+- Analyzed local PowerShell Script Block Logging (Event ID 4104) to establish the command's intended behavior
+- Verified the resulting marker file and assessed the limits of the available file-creation evidence
+- Investigated a related high-severity alert involving a temporary PowerShell script-policy test file
+- Reconstructed an event timeline and documented findings, evidence gaps, and recommended response actions
+
+### Key findings
+
+The investigation established that the primary alert corresponded to an intentionally generated, benign lab command. A separate high-severity alert required contextual assessment but could not be classified as malicious from the available evidence.
+
+The project demonstrates how SIEM alerts can be investigated using endpoint telemetry, and why alert severity alone is insufficient to establish malicious activity.
+
+### Key technologies
+
+**Wazuh · Sysmon · Windows 11 · PowerShell · Windows Event Logs · Ubuntu · MITRE ATT&CK**
+
+**MITRE ATT&CK:** T1059.001 — PowerShell
+
+🔗 [View Investigation Report](https://github.com/mwaithakake/cybersecurity-learning-series/blob/main/projects/wazuh_encoded_powershell.md)
+
+--- 
 
 ## 🏢 Active Directory Infrastructure & Security Lab
 
