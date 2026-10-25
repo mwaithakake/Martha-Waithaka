@@ -1,48 +1,49 @@
-**CompTIA Security+ · ISC2 CC**
-
-Hi, I'm Martha. I build hands-on skills in defensive cybersecurity and IT support, with a focus on investigating what happened on a system and what the evidence shows. My projects cover Windows endpoint investigation, SIEM alert triage, network detection, and Active Directory administration.
+Hi, I'm Martha. I hold CompTIA Security+ and ISC2 CC, and I'm building hands-on skills in defensive cybersecurity and IT support. I focus on investigating what happened on a system and what the evidence shows.
 
 I'm looking for entry-level security analyst or IT support roles where I can keep growing my investigation and infrastructure skills.
 
 ---
 
-## Core Focus Areas
+## Explore my work
 
-- Endpoint and log investigation
-- SIEM alert triage (Wazuh, Sysmon)
-- Active Directory and access management
-- IT support and system troubleshooting
+- **[Cybersecurity Portfolio →](./cybersecurity.md)**
+- [Other technical projects](./software-projects.md)
 
 ---
 
-## 🔗 Explore My Work
+## Skills & tools
 
-- 🛡️ [Cybersecurity Portfolio](./cybersecurity.md): investigation labs and write-ups
-- 💻 [Other technical projects](./software-projects.md)
+**Investigation & detection:** Sysmon · Wazuh · Snort · Windows Event Logs · PowerShell Script Block Logging · MITRE ATT&CK
+
+**Network analysis:** Wireshark · Nmap · TCP/IP
+
+**Windows & infrastructure:** Active Directory · Group Policy · PowerShell · Windows 11 · Windows Server
+
+**Lab environment:** Kali Linux · Ubuntu · VirtualBox
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 <a href="https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url">
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-5b2a86?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 <a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
-  <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2_CC-5b2a86?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </a>
 
 ---
 
-## 📫 Let's Connect
+## Let's connect
 
 <a href="https://www.linkedin.com/in/martha-waithaka-203b75263/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-2a1740?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/mwaithakake">
-  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-2a1740?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:marthanyangatiwaithaka@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email-2a1740?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
