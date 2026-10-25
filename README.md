@@ -1,8 +1,6 @@
-# Hi, I'm Martha Waithaka
+**CompTIA Security+ · ISC2 CC**
 
-**Entry-Level IT & Security Analyst** · CompTIA Security+ · ISC2 CC
-
-I build hands-on skills in defensive cybersecurity and IT support, with a focus on investigating what happened on a system and what the evidence shows. My projects cover Windows endpoint investigation, SIEM alert triage, and Active Directory administration.
+Hi, I'm Martha. I build hands-on skills in defensive cybersecurity and IT support, with a focus on investigating what happened on a system and what the evidence shows. My projects cover Windows endpoint investigation, SIEM alert triage, network detection, and Active Directory administration.
 
 I'm looking for entry-level security analyst or IT support roles where I can keep growing my investigation and infrastructure skills.
 
