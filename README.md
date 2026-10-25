@@ -1,37 +1,41 @@
-# 👋 Hi, I'm Martha Waithaka
+# Hi, I'm Martha Waithaka
 
-💻 **Entry-Level IT & Cybersecurity Professional**  
+**Entry-Level IT & Security Analyst** · CompTIA Security+ · ISC2 CC
 
-🔐 **Security+ Certified**
+I build hands-on skills in defensive cybersecurity and IT support, with a focus on investigating what happened on a system and what the evidence shows. My projects cover Windows endpoint investigation, SIEM alert triage, and Active Directory administration.
 
-I am building hands-on skills in IT support and defensive cybersecurity, with a strong interest in understanding how systems operate and how security controls protect them.
-
-Through practical labs and documented investigations, I focus on troubleshooting, log analysis, system configuration, and secure practices across Windows and Linux environments.
-
-I am currently seeking entry-level IT support or technical roles where I can strengthen my infrastructure knowledge while continuing to grow in cybersecurity.
+I'm looking for entry-level security analyst or IT support roles where I can keep growing my investigation and infrastructure skills.
 
 ---
 
-## 🔑 Core Focus Areas
+## Core Focus Areas
 
-- IT Support & System Troubleshooting  
-- User & Access Management  
-- Log Analysis & Basic Incident Investigation  
-- Networking Fundamentals  
-- Secure Configuration Practices  
-
----
-
-## 🔗 Explore My Work  
-
-- 🛡️ [Cybersecurity Portfolio](./cybersecurity.md)  
-- 💻 [Technical & System Labs](./software-projects.md)  
-- 📄 [Resume](./resume.pdf)  
-
+- Endpoint and log investigation
+- SIEM alert triage (Wazuh, Sysmon)
+- Active Directory and access management
+- IT support and system troubleshooting
 
 ---
 
-## 📫 Let's Connect  
+## 🔗 Explore My Work
+
+- 🛡️ [Cybersecurity Portfolio](./cybersecurity.md): investigation labs and write-ups
+- 💻 [Other technical projects](./software-projects.md)
+
+---
+
+## 🎓 Certifications
+
+<a href="https://www.credly.com/badges/d8de080d-e7aa-4a20-a6f7-a8ef3ff9f656/public_url">
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/c52bbe3d-a629-480e-977b-44c1bc923887/public_url">
+  <img src="https://img.shields.io/badge/-ISC2_CC-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</a>
+
+---
+
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/martha-waithaka-203b75263/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,4 +49,4 @@ I am currently seeking entry-level IT support or technical roles where I can str
 
 ---
 
-_This portfolio documents my ongoing learning and hands-on projects as I build a strong technical foundation in IT and security._
+_This portfolio documents my progression from guided hands-on labs toward independently investigating cybersecurity problems._
