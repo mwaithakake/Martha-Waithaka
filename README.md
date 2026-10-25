@@ -7,7 +7,7 @@ I'm looking for entry-level security analyst or IT support roles where I can kee
 ## Explore my work
 
 - **[Cybersecurity Portfolio →](./cybersecurity.md)**
-- [Other technical projects](./software-projects.md)
+- [Other projects & certificates](./software-projects.md)
 
 ---
 
