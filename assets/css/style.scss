@@ -2,33 +2,37 @@
 ---
 @import "{{ site.theme }}";
 
-/* ===== PALETTE: rose and mauve. Change only this block to recolor the site ===== */
-$dark:   #4a2540;
-$mid:    #8a5476;
-$bg:     #faf5f8;
-$tint:   #f4e6ef;
-$border: #ead9e3;
-$shadow: rgba(74, 37, 64, 0.10);
-/* ================================================================================= */
+/* ===== PALETTE: deep plum. Change only this block to recolor the site ===== */
+$dark:   #2a1740;
+$mid:    #5b2a86;
+$bg:     #f5f1f9;
+$tint:   #efe6f7;
+$border: #e0d5ec;
+$shadow: rgba(42, 23, 64, 0.10);
+/* ========================================================================= */
 
 body {
   background: $bg;
   font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-/* Header: hidden, the banner image replaces it */
+/* Header (compact) */
 .page-header {
+  background-color: $dark;
+  background-image: linear-gradient(120deg, $dark, $mid);
+  padding: 2rem 1.5rem;
+}
+.project-name {
+  font-size: 2rem;
+  margin: 0 0 0.25rem;
+}
+.project-tagline {
+  font-size: 1rem;
+  margin: 0 0 0.75rem;
+  opacity: 0.9;
+}
+.page-header .btn {
   display: none;
-}
-.banner {
-  display: block;
-  width: 100%;
-  border-radius: 14px;
-  margin: 0 0 1.5rem;
-  box-shadow: 0 2px 12px $shadow;
-}
-.main-content {
-  padding-top: 1.5rem;
 }
 
 /* Headings and links (overrides the theme's green and blue) */
@@ -57,7 +61,7 @@ body {
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .project-card:hover {
-  box-shadow: 0 6px 20px rgba($dark, 0.18);
+  box-shadow: 0 6px 20px rgba(42, 23, 64, 0.18);
   transform: translateY(-2px);
 }
 .project-card h2 {
@@ -74,4 +78,27 @@ body {
 }
 
 /* Tables */
-.ma
+.main-content table th {
+  background: $dark;
+  color: #ffffff;
+}
+.main-content table td,
+.main-content table th {
+  padding: 0.5rem 0.75rem;
+  border-color: $border;
+}
+
+/* Inline code */
+.main-content code {
+  background: $tint;
+  color: $dark;
+  border-radius: 4px;
+  padding: 0.1em 0.35em;
+}
+
+/* Collapsible sections */
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: $mid;
+}
