@@ -1,0 +1,49 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Header: deep navy gradient */
+.page-header {
+  background-color: #0b1f3a;
+  background-image: linear-gradient(120deg, #0b1f3a, #1d4e89);
+}
+
+/* Project cards */
+.project-card {
+  border: 1px solid #e3e8ef;
+  border-radius: 12px;
+  padding: 1.25rem 1.75rem;
+  margin: 1.75rem 0;
+  background: #ffffff;
+  box-shadow: 0 2px 12px rgba(15, 31, 58, 0.08);
+}
+.project-card h2 {
+  margin-top: 0.25rem;
+  color: #0b1f3a;
+}
+
+/* Key findings callout */
+.finding {
+  background: #f1f6fd;
+  border-left: 4px solid #1d4e89;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0;
+}
+
+/* Tables */
+.main-content table th {
+  background: #0b1f3a;
+  color: #ffffff;
+}
+.main-content table td,
+.main-content table th {
+  padding: 0.5rem 0.75rem;
+}
+
+/* Collapsible sections */
+details summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #1d4e89;
+}
